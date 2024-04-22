@@ -56,7 +56,7 @@
   /* HOME BUTTON ICON */
   --home-icon: url(https://genshinlab.com/wp-content/uploads/2023/09/Jingliu_Genshinlab.png); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
-  --home-size: 180px; /* home button icon size [default: 40px] */
+  --home-size: 70px; /* home button icon size [default: 40px] */
 
   /* CHANNEL COLORS */
   --channel-unread: var(--main-color); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
