@@ -54,9 +54,9 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://genshinlab.com/wp-content/uploads/2023/09/Jingliu_Genshinlab.png); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://media.discordapp.net/attachments/594237423546925062/1220440961239351460/EDCAF1FF967B6D21CBE5622AEACE7D1FADF74EF3.png?ex=6627ffb7&is=6626ae37&hm=24bb1735a7a2a1094e86ee8278d77f7d22f96f0c254fdeccf23bc8bd457fca4f&=&format=webp&quality=lossless); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
-  --home-size: 60px; /* home button icon size [default: 40px] */
+  --home-size: 40px; /* home button icon size [default: 40px] */
 
   /* CHANNEL COLORS */
   --channel-unread: var(--main-color); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
