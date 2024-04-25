@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 90%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.7); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://drive.google.com/file/d/1uU_pMklxGq2FsEBARbPOVuzJeVkCz9cL/view); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://preview.redd.it/eoe5j5g3k2ic1.jpg?width=2561&format=pjpg&auto=webp&s=15673c20f6575b995ef13ded8716d60badbbffd7); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
@@ -54,7 +54,7 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://media.discordapp.net/attachments/594237423546925062/1220440961239351460/EDCAF1FF967B6D21CBE5622AEACE7D1FADF74EF3.png?ex=6627ffb7&is=6626ae37&hm=24bb1735a7a2a1094e86ee8278d77f7d22f96f0c254fdeccf23bc8bd457fca4f&=&format=webp&quality=lossless); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://drive.google.com/file/d/1uU_pMklxGq2FsEBARbPOVuzJeVkCz9cL/view); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 50px; /* home button icon size [default: 40px] */
 
