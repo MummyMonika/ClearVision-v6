@@ -54,7 +54,7 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://preview.redd.it/i-recreated-the-buff-soldier-with-ai-this-is-what-came-out-v0-dd7q3nqi2o8c1.jpg?width=633&format=pjpg&auto=webp&s=20b5c9cce151241cbce9b287d383c05a9b1f3f3a); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://i.imgflip.com/2/6k5ixd.jpg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 50px; /* home button icon size [default: 40px] */
 
