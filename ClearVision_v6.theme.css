@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 70%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.4); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://pbs.twimg.com/media/GREEQLFXoAE-N8_?format=jpg&name=medium); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://packaged-media.redd.it/vh5q0flb3mcd1/pb/m2-res_716p.mp4?m=DASHPlaylist.mpd&v=1&e=1721048400&s=e869d90ad406b603d7b5c4adffbc89821d743577#t=0); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
