@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 70%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.4); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://areajugones.sport.es/wp-content/uploads/2020/09/rezero-2-1.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://scontent.fltn3-1.fna.fbcdn.net/v/t39.30808-6/461093637_837260085288166_4197440210850186845_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sAFexlW5CWQQ7kNvgEs2TBR&_nc_ht=scontent.fltn3-1.fna&_nc_gid=A53MCDp7Rw13fn5PwFfe-34&oh=00_AYDcUtDbWtz_-TkFI3_ueMim4j7QYau_YQFoWED5JZVR5A&oe=66FF2E0A); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
